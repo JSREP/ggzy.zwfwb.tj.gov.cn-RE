@@ -120,7 +120,11 @@ https://github.com/JSREI/js-window-monitor-debugger-hook
 
 ![image-20221228020646665](README.assets/image-20221228020646665.png)
 
-分析完毕。
+分析完毕，把扣出来的代码运行一下康康：
+
+![image-20230102224803266](README.assets/image-20230102224803266.png)
+
+访问下也木有问题，OK结束。
 
 
 
